@@ -7,4 +7,6 @@ def fun():
 end_time= time.time()
 fun()
 timetaken = end_time - start_time
-print("Your program takes: ", timetaken) # 0.0345
+print("Your program takes: ", timetaken)
+
+#some things
